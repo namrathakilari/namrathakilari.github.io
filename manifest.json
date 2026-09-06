@@ -1,0 +1,12 @@
+{
+    "name": "Kilari Namratha Saroja",
+    "short_name": "namratha.kilari",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0C0E12",
+    "theme_color": "#0C0E12",
+    "description": "Portfolio — Computer Vision & Generative AI",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
